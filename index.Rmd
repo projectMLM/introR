@@ -5,7 +5,6 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
 link-citations: yes
-github-repo: projectmlm.github.io/repintroR
 ---
 
 # Comenzando
